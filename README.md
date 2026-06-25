@@ -21,6 +21,6 @@
 
 ### `./fetch_telemetry.sh`
 <div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ravandevil25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=ff0000&text_color=a9a9a9&icon_color=ff0000&include_all_commits=true&count_private=true&hide=contribs" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ravandevil25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=ff0000&text_color=a9a9a9&icon_color=ff0000&include_all_commits=true&count_private=true&hide=contribs&v=1" alt="GitHub Stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravandevil25&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=ff0000&text_color=a9a9a9" alt="Top Languages" />
 </div>
