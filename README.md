@@ -1,26 +1,26 @@
-# ⚡ Saurav Kumar (Ravan)
+# 🔱 RAVAN // GOD OF THE KERNEL
 
 ### `whoami`
 ```bash
-❯ Arch Linux power user & Systems Engineer.
-❯ Building raw, highly-optimized, zero-bloat software.
-❯ Specializing in automation, kernel/system-level tools, and backend architecture.
+❯ Apex System Engineer & Arch Linux Purist.
+❯ Forging raw, memory-safe, ruthless software at the system level.
+❯ If it exists, I can optimize it. If it resists, I overwrite it.
 ```
 
-### `ls ./projects`
-- **FRIDAY Voice Module** — Modular, low-latency autonomous voice assistance engine.
-- **Auto-Ravan** — Headless WhatsApp daemon for automated chat manipulation and routing.
-- _(Core system-level projects are currently restricted in private repositories)_
+### `ls -la ./arsenal`
+- **FRIDAY Voice Engine** — Low-latency, autonomous intelligence module.
+- **Auto-Ravan Daemon** — Headless, aggressive chat manipulation matrix.
+- _(Core system overrides & kernel modules remain strictly classified)_
 
 ### `cat ./stack.conf`
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=ff0000)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=ff0000)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=ff0000)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff0000)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=ff0000)
 
-### `./fetch_stats.sh`
+### `./fetch_telemetry.sh`
 <div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ravandevil25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1793D1" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravandevil25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1793D1" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ravandevil25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=ff0000&text_color=a9a9a9&icon_color=ff0000" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravandevil25&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=ff0000&text_color=a9a9a9" alt="Top Languages" />
 </div>
